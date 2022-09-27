@@ -9,21 +9,21 @@ const PrivacyPolicyScreen = () => {
             <h3>Privacy Policy : </h3>
             <h5>Personal Information</h5>
             <p>
-            MyGreen Mart (“MYGREEN MART”) is the licensed owner of 
-            the brand MYGREEN MART and the website mygreenmart.in 
-            (”The Site”). MYGREEN MART respects your privacy. This 
+            Green Mart (“Green MART”) is the licensed owner of 
+            the brand Green MART and the website Greenmart.in 
+            (”The Site”). Green MART respects your privacy. This 
             Privacy Policy provides succinctly the manner your data 
-            collected and used by MYGREEN MART on the Site. As a 
+            collected and used by Green MART on the Site. As a 
             visitor to the Site/ Customer you are advised to please 
             read the Privacy Policy carefully. By accessing the 
             services provided by the Site you agree to the collection 
-            and use of your data by MYGREEN MART in the manner 
+            and use of your data by Green MART in the manner 
             provided in this Privacy Policy.
             </p>
             <h5>What information is, or may be, collected form you?</h5>
             <p>
             As part of the registration process on the Site, 
-            MYGREEN MART may collect the following personally 
+            Green MART may collect the following personally 
             identifiable information about you: Name including 
             first and last name, alternate email address, mobile 
             phone number and contact details, Postal code, 

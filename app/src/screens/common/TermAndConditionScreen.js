@@ -8,20 +8,20 @@ const TermAndConditionScreen = () => {
              <div className="main1">
             <h3>Terms & Conditions : </h3>
             <h5>Personal Information</h5>
-            <p>MYGREEN MART is the licensed owner of the brand mygreenmart.in 
-                and the website mygreenmart.in (”The Site”).MYGREEN MART
+            <p>Green MART is the licensed owner of the brand Greenmart.in 
+                and the website Greenmart.in (”The Site”).Green MART
                  respects your privacy. This Privacy Policy provides succinctly 
-                 the manner your data is collected and used by MYGREEN MART on 
+                 the manner your data is collected and used by Green MART on 
                  the Site. As a visitor to the Site/ Customer you are advised to 
                  please read the Privacy Policy carefully. By accessing the 
                  services provided by the Site you agree to the collection and 
-                 use of your data by MYGREEN MART in the manner provided in this 
+                 use of your data by Green MART in the manner provided in this 
                  Privacy Policy.
             </p>
             <br/>
             <h5>Services overview
 </h5>
-            <p>As part of the registration process on the Site, MYGREEN MART 
+            <p>As part of the registration process on the Site, Green MART 
                 may collect the following personally identifiable information 
                 about you: Name including first and last name, alternate email 
                 address, mobile phone number and contact details, Postal code, 
@@ -48,10 +48,10 @@ const TermAndConditionScreen = () => {
             <br/>
             <h5>License & Site access
 </h5>
-            <p>MYGREEN MART grants you a limited sub-license to access and make 
+            <p>Green MART grants you a limited sub-license to access and make 
                 personal use of this site and not to download (other than page 
                 caching) or modify it, or any portion of it, except with express 
-                written consent of MYGREEN MART. This license does not include 
+                written consent of Green MART. This license does not include 
                 any resale or commercial use of this site or its contents; any 
                 collection and use of any product listings, descriptions, or 
                 prices; any derivative use of this site or its contents; any 
@@ -60,14 +60,14 @@ const TermAndConditionScreen = () => {
                 data gathering and extraction tools. This site or any portion of 
                 this site may not be reproduced, duplicated, copied, sold, resold, 
                 visited, or otherwise exploited for any commercial purpose without 
-                express written consent of MYGREEN MART. You may not frame or utilize 
+                express written consent of Green MART. You may not frame or utilize 
                 framing techniques to enclose any trademark, logo, or other proprietary 
                 information (including images, text, page layout, or form) of the Site or 
-                of MYGREEN MART and its affiliates without express written consent. 
+                of Green MART and its affiliates without express written consent. 
                 You may not use any meta tags or any other “hidden text” utilizing the 
-                Site’s or MYGREEN MART’s name or MGM’s name or trademarks without the 
-                express written consent of MYGREEN MART. Any unauthorized use terminates 
-                the permission or license granted by MYGREEN MART</p>
+                Site’s or Green MART’s name or MGM’s name or trademarks without the 
+                express written consent of Green MART. Any unauthorized use terminates 
+                the permission or license granted by Green MART</p>
             <br/>
         </div>
         </div>
