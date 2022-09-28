@@ -34,18 +34,18 @@ const ForgotPassword = (props) => {
 
     }
 
-    const validate = async () => {
+    const validate =  () => {
         var body = {
             email: destEmail
         }
-        await ApiCustomerService.checkUser(body)
-            .then(response => setStatus(response.data))
+        ApiCustomerService.checkUser(body)
+            .then(response => {if (response.data==="YES") sendOTP() })
             .catch(error => { swal("Could Not Verify Email") });
     }
 
     const sendOTP = () => {
-        validate();
-        if (status === "YES") {
+       // validate();
+        // if (status === "YES") {
             if (waitLockFlag) {
                 console.log("-------------------------")
                 setWaitLockFlag(false);
@@ -67,9 +67,9 @@ const ForgotPassword = (props) => {
                         setWaitLockFlag(true);
                     });
             }
-        } else {
-            swal("Error", "Your Email Is Not Registered yet", "error")
-        }
+        // } else {
+        //     swal("Info", "Enter Once Again", "info")
+        // }
 
     }
     const handleSubmit = () => {
@@ -99,7 +99,7 @@ const ForgotPassword = (props) => {
                 </div>
                 <div className="form_buttons_pass">
                     {sendOTPButton && <Button
-                        onClick={sendOTP}
+                        onClick={validate}
                         type="primary"
                         className="form_button"
                         color={'#208AEC'}
